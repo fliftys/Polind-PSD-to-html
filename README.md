@@ -9,6 +9,6 @@ Strona napisania w celu przetrenowania SCSS i BEM, design strony jest darmowy i 
   <li>CSS3 (SASS/SCSS) - metodologią BEM  </li>
 </ul>
 
-<h4>Użyte technologie</h4>
+<h4>Użyte narzędzia</h4>
 Podczas kodowania korzystałem z programów/narzędzi: Vs code, Photoshop + npm, node-sass
 
