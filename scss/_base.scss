@@ -9,6 +9,10 @@
 html{
   font-family: sans-serif;
   font-size: 100%;
+
+  @media (max-width: 810px){
+    font-size: 80%;
+  }
 }
 body{
   box-sizing: border-box;
